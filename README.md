@@ -147,32 +147,6 @@ Y-axis : Normalized Cognitive State
 
 allowing users to observe how the simulated mind evolves throughout the scenario.
 
----
-
-# Project Structure
-
-```text
-Dilate/
-│
-├── cli.py
-├── simulator.py
-├── requirements.txt
-│
-├── core/
-│   ├── constants.py
-│   ├── dynamics.py
-│   ├── model.py
-│   ├── scenarios.py
-│   └── state.py
-│
-├── visualization/
-│   ├── animation.py
-│   └── plotter.py
-│
-└── tests/
-    ├── test_model.py
-    ├── test_dynamics.py
-    └── test_simulation.py
 ```
 
 ---
